@@ -2281,4 +2281,272 @@ details[open] > summary::after {
     text-transform: uppercase;
     padding-left: 454px; }
 
+.prod__text__pric {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+
+.prod__text_ic {
+  color: #e4af48; }
+
+.information__block1 {
+  display: flex;
+  padding-top: 33px;
+  padding-bottom: 26px;
+  border-bottom: 1px solid #e8e8e8; }
+
+.block01__details {
+  width: 293px; }
+.block01__details[open] > summary::after {
+  content: ""; }
+.block01__sum {
+  color: #222222;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 182px;
+  height: 13px;
+  outline: none;
+  content: none; }
+.block01__sum_02 {
+  color: #222222;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  height: 13px;
+  outline: none;
+  content: none; }
+.block01__sum::after {
+  padding-left: 1px;
+  content: none; }
+.block01__sum_02::after {
+  padding-left: 1px;
+  content: none; }
+.block01__form1__ul {
+  list-style-type: none; }
+.block01__form {
+  padding-left: 35px;
+  padding-top: 39px;
+  width: 259px; }
+.block01__form1__ul_link1_li1 {
+  color: #222222;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase; }
+.block01__form1__ul_link2_li2 {
+  width: 221px;
+  height: 12px;
+  color: #b3b2b2;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01__form1__ul_link2 {
+  padding-top: 10px;
+  padding-bottom: 30px; }
+.block01__form1__check_l1 {
+  color: #222222;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase; }
+.block01__form1__check_r1 {
+  margin-bottom: 20px; }
+.block01__form1__check_r2 {
+  margin-bottom: 33px; }
+.block01__form1__link2 {
+  padding-bottom: 38px; }
+.block01__form1__ul2 {
+  list-style-type: none; }
+.block01__form1__ul2_link1 {
+  width: 163px;
+  height: 10px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding-bottom: 15px; }
+.block01_fa1 {
+  color: #b3b2b2;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01_fa2 {
+  height: 12px;
+  color: #b3b2b2;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01_fa3 {
+  color: #b3b2b2; }
+.block01__form1__ul2_link2 {
+  width: 223px;
+  height: 12px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01__form1__ul2_link3 {
+  width: 259px;
+  height: 12px;
+  color: #b3b2b2;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01__form1__ul2_link2-1 {
+  height: 12px;
+  padding-top: 33px;
+  padding-bottom: 15px; }
+.block01__button {
+  width: 180px;
+  height: 50px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ffffff; }
+.block01__button:hover {
+  border: 1px solid #eaeaea; }
+.block01__butt {
+  width: 73px;
+  height: 12px;
+  color: #4a4a4a;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  background-color: #ffffff; }
+.block01__registed {
+  padding-left: 585px;
+  width: 391px;
+  height: 342px;
+  margin-top: -360px; }
+.block01__registed__ul {
+  list-style-type: none; }
+.block01__registed__form_ul {
+  list-style-type: none; }
+.block01__registed__ul_link1 {
+  width: 128px;
+  height: 11px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding-bottom: 15px; }
+.block01__registed__ul_link {
+  width: 107px;
+  height: 12px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  padding-bottom: 27px; }
+.block01__registed__ul_link2 {
+  padding-bottom: 27px; }
+.block01__registed_a1 {
+  color: #222222; }
+.block01__registed_a2 {
+  color: #b3b2b2; }
+.block01__registed_p1 {
+  width: 92px;
+  height: 8px;
+  color: #222222;
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: uppercase; }
+.block01__registed_s1 {
+  width: 6px;
+  height: 6px;
+  color: #ff0d0d;
+  font-family: Lato;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01__registed__form_ul_inp {
+  display: flex;
+  padding-bottom: 15px; }
+.block01__registed__form_ul_inp1 {
+  width: 390px;
+  height: 45px;
+  border: 1px solid #eaeaea;
+  background-color: #ffffff;
+  outline: none;
+  font-size: 20px; }
+.block01__registed__form_ul_inp2 {
+  display: flex;
+  padding-bottom: 16px;
+  padding-top: 23px; }
+.block01__registed_p2 {
+  width: 65px;
+  height: 8px;
+  color: #222222;
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: uppercase; }
+.block01__registed__form_ul_inp3 {
+  width: 390px;
+  height: 45px;
+  border: 1px solid #eaeaea;
+  background-color: #ffffff;
+  outline: none;
+  font-size: 20px; }
+.block01__registed__form_ul_li {
+  padding-bottom: 22px; }
+.block01__registed__form_ul_inp4 {
+  outline: none;
+  color: #ffff; }
+.block01__registed__form_ul_inp4::after {
+  content: "* Required Fileds";
+  white-space: nowrap;
+  margin-left: -115px;
+  width: 96px;
+  height: 12px;
+  color: #ff0d0d;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px; }
+.block01__registed__form_ul_inp4::-webkit-file-upload-button {
+  visibility: hidden; }
+.block01__registed__buttlink {
+  display: flex;
+  align-items: center;
+  padding-top: 25px; }
+.block01__registed__buttlink1 {
+  width: 180px;
+  height: 50px;
+  border: 1px solid #ffffff; }
+.block01__registed__buttlink2 {
+  padding-top: 5px; }
+.block01__registed__butt {
+  width: 46px;
+  height: 12px;
+  color: #4a4a4a;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  margin: 19px 81px 19px 55px;
+  background-color: #fff; }
+.block01__registed__buttlink1:hover {
+  border: 1px solid #eaeaea;
+  background-color: #ffffff; }
+.block01__registed__buttlink1_link {
+  padding-left: 32px;
+  width: 111px;
+  height: 12px;
+  color: #222222;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px; }
+
 /*# sourceMappingURL=style.css.map */
